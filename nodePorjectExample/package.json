@@ -1,0 +1,16 @@
+{
+  "name": "nodeprojectexample",
+  "version": "1.0.0",
+  "description": "first node project",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "author": "Ebru",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.3",
+    "mongodb": "^4.4.1",
+    "mongoose": "^6.2.5"
+  }
+}
